@@ -4,7 +4,7 @@ This project is build using Angular 11 + Spring Boot example with a CRUD App. Th
 
 ### Node.js Server
 ```
-cd node-js-server
+cd jwt-angular
 node server.js
 ```
 
